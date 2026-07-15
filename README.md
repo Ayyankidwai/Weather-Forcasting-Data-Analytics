@@ -46,17 +46,6 @@ Insights & Analysis
 
 Compared inter-city weather patterns.
 Monitored pollution levels and rain forecasts across locations.
-Project Files
-
-weather-analytics-dashboard/
-├── Weather.pbix 
-├── Dashboard.jpg
-├── README.md 
-└── icons/icons.jpg
-└── Background/background.jpg
-Dashboard Screenshots
-
-Dashboard Image
 
 How to Use
 
